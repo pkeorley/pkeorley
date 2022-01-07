@@ -62,6 +62,8 @@
 
 <br/>  
 
+
+## Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" /></div>  
 
 <br/>  
