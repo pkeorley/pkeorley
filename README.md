@@ -1,5 +1,13 @@
-## Hi, I pkeorley ⭐
-There is a lot of shit in my code
+### <div align="center">PKEORLEY</div>  
+  
+
+- 🔭 Сейчас я работаю над [Swubcase](https://github.com/drfiy/Swubcase)  
+  
+
+- 🌱 Сейчас я изучаю Python, HTML, CSS  
+  
+
+<br/>  
 
 
 ## My Skill Set  
@@ -26,8 +34,52 @@ There is a lot of shit in my code
 
 
 
-</td></tr></table> 
+</td></tr></table>  
+
+<br/>  
 
 
-## Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+## Connect with me  
+<div align="center">
+<a href="https://github.com/pkeorley" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/pkeorley" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/pkeorley" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pkeorley&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pkeorley&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
