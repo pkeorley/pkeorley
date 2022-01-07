@@ -1,4 +1,5 @@
-# Hi, I pkeorley ⭐
+## Hi, I pkeorley ⭐
+There is a lot of shit in my code
 
 
 ## My Skill Set  
@@ -28,5 +29,5 @@
 </td></tr></table> 
 
 
-
+## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
