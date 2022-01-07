@@ -10,7 +10,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Мой набор навыков
 <table><tr><td valign="top" width="33%">
 
 
@@ -39,7 +39,7 @@
 <br/>  
 
 
-## Connect with me  
+## Связаться со мной
 <div align="center">
 <a href="https://github.com/pkeorley" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -56,7 +56,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github статистика
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pkeorley&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
 
