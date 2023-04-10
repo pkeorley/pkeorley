@@ -12,8 +12,16 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pkeorley&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkeorley&hide=TeX&layout=compact)
 
+### 📝 Contacts
+<p>
+    <strong><a target="_blank" href="https://discord.com/users/762805351242268702">Discord</a></strong> |
+    <strong><a target="_blank" href="https://twitter.com/pkeorley">Twitter</a></strong> |
+    <strong><a target="_blank" href="https://pkeorley.xyz">My Website</a></strong> |
+    <strong><a target="_blank" href="https://pkeorley.xyz/i/quanted-invite">Quanted Bot</a></strong>
+</p>
+
 ### 🎵 Spotify
 <img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" />
 
-##### 👀 Visitors
+#### 👀 Visitors
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pkeorley.pkeorley"></img>
