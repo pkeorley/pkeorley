@@ -29,6 +29,8 @@
     <li><b>Gender:</b> Male</li>
     <li><b>LastFM:</b> https://www.last.fm/user/pkeorley</li>
     <li><b>Languages:</b> 🇺🇦 🇺🇸 🇪🇸</li>
+<br>
+    <img height="150" src="https://discord-readme-badge.vercel.app/api?id=762805351242268702">
     <br><br><br>
     </div>
 <div>
