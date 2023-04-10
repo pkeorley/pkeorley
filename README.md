@@ -17,7 +17,8 @@
     <strong><a target="_blank" href="https://discord.com/users/762805351242268702">Discord</a></strong> |
     <strong><a target="_blank" href="https://twitter.com/pkeorley">Twitter</a></strong> |
     <strong><a target="_blank" href="https://pkeorley.xyz">My Website</a></strong> |
-    <strong><a target="_blank" href="https://pkeorley.xyz/i/quanted-invite">Quanted Bot</a></strong>
+    <strong><a target="_blank" href="https://pkeorley.xyz/i/quanted-invite">Quanted Bot</a></strong> |
+    <strong><a target="_blank" href="https://www.codewars.com/users/pkeorley">Codewars</a></strong>
 </p>
 
 <div>
