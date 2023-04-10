@@ -12,7 +12,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pkeorley&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkeorley&hide=TeX&layout=compact)
 
-### My last song listened to on Spotify
+### 🎵 Spotify
 <img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" />
 
+##### 👀 Visitors
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pkeorley.pkeorley"></img>
