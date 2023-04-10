@@ -20,8 +20,18 @@
     <strong><a target="_blank" href="https://pkeorley.xyz/i/quanted-invite">Quanted Bot</a></strong>
 </p>
 
-### 🎵 Spotify
-<img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" />
+<div>
+    <h2 align="center">About me</h2>
+    <div align="center">
+        <img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=v2bdqm6yljgpwqjbc8l6xifi7&cover_image=true&theme=default" align="right">
+    </div>
+    <li><b>Name:</b> Nico</li>
+    <li><b>Gender:</b> Male</li>
+    <li><b>LastFM:</b> https://www.last.fm/user/pkeorley</li>
+    <li><b>Languages:</b> 🇺🇦 🇺🇸 🇪🇸</li>
+    <br><br><br>
+    </div>
+<div>
 
 #### 👀 Visitors
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pkeorley.pkeorley"></img>
