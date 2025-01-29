@@ -1,3 +1,5 @@
+> Frozen since 29/01/2025
+
 Joined Github **4** years ago.
 
 Since then I pushed **3517** commits, opened **3** issues, submitted **3** pull requests, received **13** stars across **28** personal projects and contributed to **1** public repositories.
